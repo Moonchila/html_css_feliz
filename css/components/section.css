@@ -6,3 +6,14 @@
     height: 730px;
     border-bottom: 10px solid #7C5E99;
 }
+
+.section .main-title{
+    margin-bottom: 60px;
+}
+
+.section.-projetos{
+    box-sizing: border-box;
+    background-color: #000;
+    height: 530px;
+    border-bottom: 10px solid #F25A70;
+}
