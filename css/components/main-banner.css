@@ -1,4 +1,4 @@
-.banner{
+.main-banner{
     box-sizing: border-box;
     background-image:url("../../assets/img/photo.png");
     background-repeat: no-repeat;
@@ -10,24 +10,22 @@
 
 }
 
-.banner .wrapper{
+.main-banner .wrapper{
     display: flex;
     flex-direction: column;
     width: 550px;
-
-
 }
 
-.banner .box{
+.main-banner .box{
     margin-bottom: 38px;
 }
 
 
-.banner .navigation{
+.main-banner .navigation{
     display: flex;
     justify-content: space-around;
 }
 
-.banner .skills{
+.main-banner .skills{
     background-color: #F25A70;
 }
