@@ -1,4 +1,4 @@
-.section{
+.main-section{
     box-sizing: border-box;
     background-color: #F25A70;
     padding-top: 50px;
@@ -7,11 +7,11 @@
     border-bottom: 10px solid #7C5E99;
 }
 
-.section .main-title{
+.main-section .main-title{
     margin-bottom: 60px;
 }
 
-.section.-projetos{
+.main-section.-project{
     box-sizing: border-box;
     background-color: #000;
     height: 530px;
