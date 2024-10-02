@@ -17,3 +17,10 @@
     height: 530px;
     border-bottom: 10px solid #F25A70;
 }
+
+.main-section.-about{
+    background-color: #7C5E99;
+    height: 780px;
+    border-bottom: 10px solid #000;
+    
+}
